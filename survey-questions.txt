@@ -1,0 +1,49 @@
+ID, 3365
+Survey status, complete
+Preferred language, English
+hWave : WAVE TRACKER - WAVE TRACKER, 2
+Consent to participate, "Yes, I agree to participate"
+Province, Ontario
+Province/region, ON
+Age group, 18 to 29 years
+Age group, 18-39
+Gender identity, Woman
+Gender identity, Female
+"Q4_1 : I, or someone close to me, has tested positive for COVID-19 ", 0
+"Q4_2 : I, or someone close to me, has had symptoms of COVID-19 but has not been tested ", 0
+"Q4_3 : I, or someone close to me, has been tested for COVID-19 but it was negative", 0
+"Q4_4 : I, or someone close to me, is elderly and/or has a health condition that increases the risk of serious illness from COVID-19 ", 1
+"Q4_5 : I have a job that exposes me to high risk of getting COVID-19 , 0
+Q4_6 : Someone close to me has a job that exposes them to high risk of getting COVID-19 , 0
+Q4_99 : None of the above, 0
+Q5 : How worried are you about the impact of COVID-19 on your personal financial situation?, Very worried
+Q6 : How have physical distancing measures due to the COVID-19 pandemic affected your employment situation? , "No change - I was not employed prior to the pandemic (e.g., retired, student, paid leave, recently graduated) and I have remained unemployed"
+"Q6b : On average, how has the number of hours you are working for pay been affected by the COVID-19 pandemic? ", 
+Q7 : How worried are you that you or someone close to you (close relative or friend) will get ill from COVID-19?, Somewhat worried
+"Q8x1 : P2W frequency - Feeling nervous, anxious or on edge", Not at all
+Q8x2 : P2W frequency - Not being able to stop or control worrying, Not at all
+Q8x3 : P2W frequency - Worrying too much about different things, Not at all
+Q8x4 : P2W frequency - Trouble relaxing, Not at all
+Q8x5 : P2W frequency - Being so restless that it?s hard to sit still, Not at all
+Q8x6 : P2W frequency - Becoming easily annoyed or irritable, Not at all
+Q8x7 : P2W frequency - Feeling afraid as if something awful might happen, Not at all
+"Q15 : During the PAST 7 DAYS, on how many days did you drink ALCOHOL?", 0
+Q16 : Q16 - On how many of the PAST 7 DAYS did you drink 4 or more  drinks on one occasion? , Drink much less alcohol
+"Q17 : In the PAST 7 DAYS, did you drink more ALCOHOL, about the same, or less alcohol overall than you did before the COVID-19 pandemic started?", No change
+"Q18 : During the PAST 7 DAYS, on how many days did you use CANNABIS (also known as marijuana, hash, 'pot')?", I do not use cannabis
+"Q19 : In the PAST 7 DAYS, did you use CANNABIS more often, about the same, or less often overall than you did before the COVID-19 pandemic started? ", Rarely or none of the time (less than 1 day)
+"Q20x1 : In the PAST 7 DAYS, how often have you felt depressed? ", Some or a little of the time (1-2 days)
+"Q20x2 : In the PAST 7 DAYS, how often have you felt lonely?", Occasionally or a moderate amount of the time (3-4 days)
+"Q20x3 : In the PAST 7 DAYS, how often have you felt hopeful about the future? ", 5
+"Q23 : Including yourself, how many people are currently living in your household?",Live alone or with others?, Live with others
+Q24_1 : How many children <6 years old live in your household?, 0
+Q24_2 : How many children between the ages of 6 and 12 years old live in your household?, 0
+Q24_3 : How many children between the ages of 12 and 17 years old live in your household?, 0
+Q24DK_96 : Prefer  not to answer the age of children living in my household,hChildren : Do you have children living in your household?, 0, No Kids
+Q25 : What is the highest level of education you have completed?, University diploma / degree
+Q26 : What is your current marital status?, Never married
+Q27 : Which of the following best describes your racial or ethnic group? , Prefer not to answer
+Q28 : Total household income received in the 2019 year before taxes?,hIncome : Total household income received in the 2019 year before taxes?, Prefer not to answer
+Q29 : Area you consider to be living in? Urban area
+
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,,,,"Asian ? East (e.g., Chinese, Japanese, Korean)",,,
